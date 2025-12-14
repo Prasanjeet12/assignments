@@ -1,6 +1,6 @@
 # assignments
 Tutedude python course assignment
-assignment_1 contains a code of  python whichs takes two integer input from user and give maths calculations in result like Addition , subtraction, Division , Multiplication
+assignment_1 contains a code of  python whichs takes two integer input from user and give maths calculations in result like Addition , subtraction, Division , Multiplication in task 2 there is python greeting program in which code takes first and last name from user and print a welcome greeting message.
 
 assignment _2 conatins the python code which takes input from user and chekcing whether the input is odd number or even number and in task2 code i give the range of number  from 1 to 50 
 
